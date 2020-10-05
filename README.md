@@ -12,7 +12,7 @@ Lectures will be added to GitHub Friday of the proceeding week.
 |---|:---|:---|
 |    | Course How-tos   | [how_tos](https://github.com/COGS108/Lectures-Fa20/tree/master/how_tos)   | 
 | 01 | Introduction to Data Science   | [01_data_science](https://github.com/COGS108/Lectures-Fa20/tree/master/01_data_science)   | 
-| 02 | Version Control & Data  | [02_git_data](https://github.com/COGS108/Lectures-Fa20/tree/master/02_git_data) |
+| 02 | Version Control & Data  | [02_git_data](https://github.com/COGS108/Lectures-Fa20/tree/master/02_data) |
 | 03 | Data Wrangling   | [03_wrangling](https://github.com/COGS108/Lectures-Fa20/tree/master/03_wrangling) |
 | 04 | Data Visualization | [04_viz](https://github.com/COGS108/Lectures-Fa20/tree/master/04_viz)   | 
 | 05 | Data Analysis | [05_analysis](https://github.com/COGS108/Lectures-Fa20/tree/master/05_analysis)   |
