@@ -26,14 +26,14 @@
 
 ## Friday : Version Control
 
-**02_01_version_control_basics**
+**01_05_version_control_basics**
 - [Video](https://youtu.be/TbNRGo4alhE)
 - [Slides](https://github.com/COGS108/Lectures-Fa20/tree/master/01_data_science/01_05_version_control_basics.pdf)
 
-**02_02_version_control_verbsI**
+**01_06_version_control_verbsI**
 - [Video](https://youtu.be/QnourNeJ7RI)
 - [Slides](https://github.com/COGS108/Lectures-Fa20/tree/master/01_data_science/01_06_version_control_verbsI.pdf)
 
-**02_03_version_control_verbsII**
+**01_07_version_control_verbsII**
 - [Video](https://youtu.be/cMBKp02uM8E)
 - [Slides](https://github.com/COGS108/Lectures-Fa20/tree/master/01_data_science/01_07_version_control_verbsII.pdf)
